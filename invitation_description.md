@@ -11,15 +11,19 @@ We are here to help you with that. If you want to learn how to build JavaScript 
 - get used to some latest improvements in Javascript language itself
 - touch backend with node.js so you know what's behind
 
+Long story short - we don't want to tell you just how the React.js API looks, but teach you how to use it to your advantage.
+
 **When**
 
 Code academy will run **every Wednesday, starting on March 1st, 18:00 - 20:00.**
+
+If you are interested, but you will miss some sessions, don't worry - all content is going to be publicly available on Github and we can assist you to catch up individually.
 
 **What you need**
 
 If you feel motivated to attend these sessions, just sign up and bring your laptop on first session.
 
-I you have registered, TELL US MORE ABOUT YOURSELF, by filling this survey: https://www.surveymonkey.com/r/JXPZJPW
+I you have registered and haven't done so, TELL US MORE ABOUT YOURSELF, by filling this survey: https://www.surveymonkey.com/r/JXPZJPW
 
 **Lectors**
 
